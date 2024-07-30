@@ -1,2 +1,2 @@
 # keyMapper
-an android app with which we can program our wireless or wired keyboard.
+an android app with which can program wireless or wired keyboard.
